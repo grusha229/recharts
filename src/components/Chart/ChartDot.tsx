@@ -1,4 +1,3 @@
-import React from 'react';
 import { Props as DotProps } from 'recharts/types/shape/Dot';
 import { EDGE_Z_SCORE_VALUE, EDGE_Z_SCORE_COLOR, getZScore } from './Chart.utils';
 
